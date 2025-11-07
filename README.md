@@ -1,4 +1,4 @@
-Task 1
+# Task 1
 
 # 🐍 Simple Python Calculator
 
@@ -27,7 +27,7 @@ print(f"Multiplication  {Val1 * Val2}")
 print(f"Division  {Val1 / Val2}")
 
 
-Task 2
+# Task 2
 # 👋 Simple Python Greeting Program
 
 This is a beginner-friendly **Python program** that asks the user for their **first name** and **last name**, then prints a personalized greeting message.
@@ -50,3 +50,4 @@ Fname = input("Enter your first name: ")
 Lname = input("Enter your last name: ")
 
 print(f"\nHello, {Fname} {Lname}! Welcome to Python program.")
+
