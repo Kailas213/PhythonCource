@@ -49,13 +49,13 @@ Enter a number: 5
 Factorial of 5 is 720
 
 
-#Task 2
-Math Module Calculations in Python
+# Task 2
+# Math Module Calculations in Python
 
 This Python program demonstrates how to use the math module to perform common mathematical operations such as finding the square root, natural logarithm, and sine value of a number.
 The user provides a number as input, and the program displays the calculated results.
 
-📌 Features
+# 📌 Features
 
 Accepts user input
 
