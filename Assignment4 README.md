@@ -39,11 +39,11 @@ Create a text file named sample.txt in the same folder as your Python script.
 
 Add some sample text to the file.
 
-Save your Python script as read_file.py.
+Save your Python script as Task7.py.
 
 Run the script:
 
-python read_file.py
+python Task7.py
 
 📌 Example Output
 
@@ -104,11 +104,11 @@ with open("output.txt", "r") as file:
 
 ▶️ How to Run
 
-Save the script as file_operations.py.
+Save the script as Task8.py.
 
 Run the script:
 
-python file_operations.py
+python Task8.py
 
 
 Enter text when prompted.
