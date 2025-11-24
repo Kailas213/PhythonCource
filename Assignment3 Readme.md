@@ -1,5 +1,6 @@
 #Task 1
-Factorial Calculator in Python
+
+#Factorial Calculator in Python
 
 This Python program calculates the factorial of a number using a user-defined function.
 The program accepts a number from the user, computes the factorial using a loop, and displays the result.
