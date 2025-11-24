@@ -1,0 +1,2 @@
+Hello, paython!
+Learning file handling in python.
